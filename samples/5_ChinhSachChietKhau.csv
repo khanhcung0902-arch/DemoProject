@@ -1,0 +1,8 @@
+MaChinhSach,LoaiDieuKien,NguongGiaTri,CapDuyet,HanhDongBatBuoc
+POL-DISC-STD,ChietKhauChuanToiDaPct,10,NhanVienKinhDoanh,ChaoGiaTrucTiep
+POL-DISC-MGR,ChietKhauCanTruongPhongPct,18,TruongPhongKinhDoanh,ChuyenDuyetTruongPhong
+POL-DISC-DIR,ChietKhauCanGiamDocPct,100,BanGiamDoc,ChuyenDuyetGiamDoc
+POL-OUT-CAT,YeuCauNgoaiDanhMuc,1,KyThuat_Va_TruongPhong,ChuyenDuyetNgoaiDanhMuc
+POL-SCHED-GAP,LichTrienKhaiKhongKhaThi,1,VanHanh_Va_KyThuat,XacMinhLichTruocKhiChaoGia
+POL-BUDGET-OVER,VuotNganSachKhachHangPct,5,TruongPhongKinhDoanh,XacMinhHoacDieuChinhPhuongAn
+

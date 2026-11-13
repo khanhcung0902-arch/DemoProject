@@ -1,0 +1,16 @@
+MaGiaiPhap,TenGiaiPhap,Nhom,DacTinhKyThuat,SLAThoaiThuan,ThoiGianCungUngNgay,TrongDanhMuc
+SW-CORE-100G,Core Switch Enterprise 100G,Switching,"100G QSFP28; HA Active-Active; Nguồn dự phòng; VLAN nâng cao",24/7,14,Co
+FW-ENT-20G,Firewall Enterprise 20Gbps HA,Security,"Firewall throughput >= 20Gbps; HA Active-Active; IPSec; PCI-DSS",24/7,14,Co
+FW-SMB-10G,Firewall SMB 10Gbps,Security,"Firewall throughput 10Gbps; Nguồn đơn; SLA 8x5",8x5,7,Co
+SDWAN-GW-PRO,SD-WAN Gateway Pro,WAN,"Hỗ trợ SD-WAN IPSec; PCI-DSS; Quản lý tập trung",24/7,21,Co
+WIFI6-AP-ENT,Access Point WiFi 6 Enterprise,Wireless,"WiFi 6; Hỗ trợ 500 user/AP; Quản lý Cloud tập trung",24/7,10,Co
+WIFI6E-AP-HIGH,Access Point WiFi 6E High-Density,Wireless,"WiFi 6E; Hỗ trợ 150 user/AP (80 AP >= 12000 user); Quản lý Cloud tập trung",24/7,18,Co
+CTRL-CLOUD-ENT,Cloud Controller Enterprise,Wireless,"Quản lý Cloud tập trung; 10000 user đồng thời; HA",24/7,7,Co
+SW-ACC-POE,Access Switch 24P PoE+ 370W,Switching,"PoE+ tối thiểu 370W; VLAN tách biệt; 8x5",8x5,10,Co
+SW-ACC-LOW,Access Switch 24P Giá Rẻ (No-PoE),Switching,"Không PoE; Không nguồn dự phòng; Chỉ văn phòng thường",8x5,5,Co
+SW-IND-24P,Industrial Switch 24P Rugged,Switching,"Dải nhiệt công nghiệp -40°C đến 75°C; Nguồn dự phòng; SLA 8x5",8x5,15,Co
+SVC-DEPLOY-ENT,Dịch vụ triển khai Enterprise,Service,"Khảo sát; Cấu hình HA; Chuyển giao 24/7",24/7,10,Co
+SVC-DEPLOY-SDWAN,Dịch vụ triển khai SD-WAN đa điểm,Service,"Triển khai 15+ chi nhánh; Kiểm thử IPSec; Chuyển giao",24/7,18,Co
+SVC-DEPLOY-STD,Dịch vụ triển khai Tiêu chuẩn,Service,"Lắp đặt; Cấu hình cơ bản; SLA 8x5",8x5,5,Co
+OUT-NAC-CUSTOM,Hệ thống NAC ngoài danh mục (Custom),Security,"Tích hợp NAC ngoài danh mục; Cần khảo sát & duyệt riêng",24/7,30,Khong
+
